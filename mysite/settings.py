@@ -25,7 +25,7 @@ SECRET_KEY = 'oxxrwm0-51#yn$-_zj7nq5757*ecq$h!^e1+vkr%qnut77tf_j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', '[::1]', 'viplod.pythonanywhere.com']
 
 
 # Application definition
